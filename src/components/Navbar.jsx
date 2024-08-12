@@ -9,7 +9,9 @@ const Navbar = () => {
     return (
         <nav className="mb-5 flex items-center justify-between pt-3">
           <div className=" flex flex-shrink-0 items-center">
+            <a href="https://rutikdarda.vercel.app">
             <img className = "mx-2 w-20" src={logo} alt="Logo"></img>
+            </a>
           </div>
           <div className="m-8 flex items-center justify-center gap-3 text-xl">
             <a href="https://www.linkedin.com/in/rutikdarda" target="_blank">
