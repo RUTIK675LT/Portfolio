@@ -43,7 +43,7 @@ export const ACHIEVEMENTS = [
 ];
 
 export const CONTACT = {
-  address: "28 Bassett St, San Jose, California - 95110 ",
+  address: "San Jose, California, United States",
   phoneNo: "(609)-453-5823",
   email: "rutikdarda@gmail.com",
 };
