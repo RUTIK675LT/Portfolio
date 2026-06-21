@@ -53,7 +53,7 @@ export const ACHIEVEMENTS = [
 ];
 
 export const CONTACT = {
-  address: "San Jose, California, United States",
+  address: "Bellevue, Washington, United States",
   phoneNo: "(609)-453-5823",
   email: "rutikdarda@gmail.com",
 };
