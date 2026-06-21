@@ -2,7 +2,8 @@ import adobe from "../assets/achievements/adobe.png";
 import aws from "../assets/achievements/aws.png";
 import cisco from "../assets/achievements/cisco.png";
 import meta from "../assets/achievements/meta.png";
-import sjsu from "../assets/achievements/sjsu.png"
+import sjsu from "../assets/achievements/sjsu.png";
+import sjsu from "../assets/achievements/aws_sde.png";
 
 export const HERO_CONTENT = `As a dedicated software engineer currently pursuing Masters in Software Engineering at San Jose State University, I have honed my skills in MERN, Python, C++, Docker and AWS through advanced coursework and hands-on projects. My practical experience includes developing a job portal application using the MERN stack and creating an AI-powered legal support tool using LLM, showcasing my ability to integrate complex software solutions. As a Student Ambassador at Adobe, I've refined my leadership and strategic planning abilities, leading workshops and initiating data-driven marketing strategies.`;
 
@@ -22,6 +23,10 @@ export const EDUCATION = [
 ];
 
 export const ACHIEVEMENTS = [
+  {image: aws_sde,
+    company: "Amazon Web Services",
+    description: "Software Development Engineer"
+  },
   {image: sjsu,
     company: "San Jose State University",
     description: "Student Research Assistant"
