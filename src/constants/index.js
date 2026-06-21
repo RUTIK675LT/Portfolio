@@ -38,7 +38,7 @@ export const ACHIEVEMENTS = [
   {
     image: aws,
     company: "AWS",
-    description: "Certified Cloud Practioner"
+    description: "Certified Cloud Practitioner"
   },
   {
     image: meta,
